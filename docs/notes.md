@@ -1,6 +1,9 @@
 # Technical Notes
-
-## Docker Challenges and Solution
+# assigment 3 Challenges
+I tried deploying on the Claw Cloud website, but it didnt work. I searched through many platforms, and Railway was the only one that worked.
+ 
+ #####################
+ ## Docker Challenges and Solution
 
 During the development of this project, I encountered an issue where Docker was not starting correctly on my system. After investigating the problem, I found that the cause was an outdated version of **WSL (Windows Subsystem for Linux)**, which Docker relies on to run on Windows.
 
