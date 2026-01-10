@@ -1,4 +1,12 @@
-# Assignment 2  Docker & GitHub Basics (Practical)
+# Assignment 3 live servire
+## Production URL
+
+You can access the **osFreshCart** project in production using the following link:
+[osfreshcart-production.up.railway.app](https://osfreshcart-production.up.railway.app)
+
+
+
+# Assignment 2  Docker & GitHub Basics (Practical)
 
 ## Student Information
 - **Name:** Ramzy Zakout  
